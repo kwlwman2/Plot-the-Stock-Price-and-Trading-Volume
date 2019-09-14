@@ -1,9 +1,9 @@
 # Plot-the-Stock-Price-and-Trading-Volume
 To plot the stock price and trading volume to dig out the trading signal
 
-## plot the stock chart with trading volume and stock price 
+## Plot the stock chart with trading volume and stock price 
 
-Just for my own curiosity, I want to create a chart which show how trading volume and trend of tock price are correlated visually. Therefore I tried to build a chart to achieve this function. It's quit hard, just took me an afternoon to finish a all the works.
+Just for my own curiosity, I want to create a chart which shows how the trading volume and the trend of stock price are correlated. Therefore I tried to build a chart to achieve this function. 
 
 For some traders who favor technical analysis, they strongly believe trading volume is a good indicator showing the persistence of a upward trend or a downward trend of a stock, in order that they can predict the next move of the market. Certainly, the market is not always working in that way. Otherwise there won't be any investors losing their bets. However, it is still worthy plotting the chart to have a better grip on the market sentiment.
 
